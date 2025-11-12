@@ -55,7 +55,7 @@ def interface_game():
 │                                                                                                   │
 │           ────────────────────────────────────────────────────────                                │
 │   {RED}Rules :                                   {BLUE}                                                      │
-│   {RED}   - write => {FAT_TEXT+BLUE}rock{RESET+RED} / {FAT_TEXT+BLUE}paper{RESET+RED} / {FAT_TEXT+BLUE}scissor{RESET}      {BLUE}                                                      │
+│   {RED}   - write => {FAT_TEXT+BLUE}pierre{RESET+RED} / {FAT_TEXT+BLUE}feuille{RESET+RED} / {FAT_TEXT+BLUE}ciseau{RESET}      {BLUE}                                                      │
 │   {RED}   - if you want to stop the game => {FAT_TEXT+BLUE}/stop{RESET+BLUE}                                                      │
 │                                                                                                   │
 └───────────────────────────────────────────────────────────────────────────────────────────────────┘
